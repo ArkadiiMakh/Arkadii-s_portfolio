@@ -1,4 +1,4 @@
-# Arkadii's Portfolio
+# Arkadii Makhmatov - Data Analyst Portfolio
 
 # [Project 1: Customer Segmentation and Lifetime Value Analysis]
 
