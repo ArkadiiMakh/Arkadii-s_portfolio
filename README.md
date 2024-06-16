@@ -2,6 +2,8 @@
 
 # [Project 1: Customer Segmentation and Lifetime Value Analysis based on sample DB]
 
+![Dashboard Animation](Dashboard_animated.gif)
+
 ## Project Overview
 
 The objective of this project is to extract relevant data from the AdventureWorksDW2019 database and create an interactive dashboard that provides insights into customer segments and their lifetime value (CLV). This dashboard can be usefull for marketing and customer relationship management (CRM) teams to develop targeted marketing campaigns and strategies to increase customer lifetime value.
@@ -42,3 +44,8 @@ AdventureWorks, a global bicycle manufacturer and retailer, aims to understand i
 ## Conclusion
 
 This project demonstrates the application of SQL and Power BI to extract, clean, and visualize data, providing actionable insights for marketing and CRM teams. The interactive dashboard developed in this project helps AdventureWorks understand its customer base better and tailor its marketing strategies to maximize customer lifetime value.
+
+
+
+
+
